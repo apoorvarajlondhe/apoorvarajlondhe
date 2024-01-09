@@ -78,7 +78,7 @@ A passionate frontend developer with a keen eye for intuitive user interfaces an
 🧰 **Skills:** JavaScript, HTML5, CSS3, React.js, Bootstrap, Responsive Design, UI/UX Design, Git
 
 🚀 **Projects:** 
-- [Project 1]([link](https://elite-real-estate.pages.dev/)) - Description of the project.
+- [Elite Real Estate](https://elite-real-estate.pages.dev/) - Description of the project.
 
 📚 **Education:**
 - **Bachelor of Engineering in Information Technology** - PICT, Pune.
