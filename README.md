@@ -84,7 +84,6 @@ A passionate frontend developer with a keen eye for intuitive user interfaces an
 - **Bachelor of Engineering in Information Technology** - PICT, Pune.
 
 🔗 **Connect with Me:**
-- LinkedIn: [LinkedIn Profile](link)
 - Email: apoorvarajlondhe15@email.com
 
 📌 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
