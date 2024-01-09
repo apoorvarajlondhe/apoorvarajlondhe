@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Apoorvaraj Londhe
 
 <!--
 **apoorvarajlondhe/apoorvarajlondhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -70,10 +70,10 @@ Here are some ideas to get you started:
 <p align="center"><img src="https://github.com/suyogkokaje/suyogkokaje/blob/output/github-contribution-grid-snake.svg"/></p>
 -->
 
-### Apoorvaraj Londhe
+
 #### Frontend Developer | Graphic Designer
 
-👋 Hi there! I'm Apoorvaraj, a passionate frontend developer with a keen eye for intuitive user interfaces and engaging experiences.
+A passionate frontend developer with a keen eye for intuitive user interfaces and engaging experiences.
 
 🧰 **Skills:** JavaScript, HTML5, CSS3, React.js, Bootstrap, Responsive Design, UI/UX Design, Git
 
