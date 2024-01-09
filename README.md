@@ -90,4 +90,3 @@ A passionate frontend developer with a keen eye for intuitive user interfaces an
 
 ---
 
-You can further customize this profile by adding specific projects, experiences, skills, or achievements to best represent your own abilities and experiences!
