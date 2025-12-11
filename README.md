@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 A passionate frontend developer with a keen eye for intuitive user interfaces and engaging experiences.
 
-🧰 **Skills:** JavaScript, HTML5, CSS3, React.js, Bootstrap, Responsive Design, UI/UX Design, Git
+🧰 **Skills:** JavaScript, HTML5, CSS3, React.js, Bootstrap, Responsive Design, UI/UX Design, Git, MS Excel, MS Power BI
 
 🚀 **Projects:** 
 - [Elite Real Estate](https://elite-real-estate.pages.dev/) - A modern and user-friendly frontend for a real estate website designed to showcase properties, streamline property searches, and provide a seamless user experience.
